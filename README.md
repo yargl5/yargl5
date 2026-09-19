@@ -4,11 +4,9 @@
 
 ---
 
-<h1 align="center">yargl5</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Vibecoding-100%25-blueviolet?style=for-the-badge" alt="Vibecoding" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Codex-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -24,12 +22,11 @@
 
 ---
 
-### Статистика
+### Активность и статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yargl5&show_icons=true&theme=tokyonight&hide_border=true" alt="Статистика yargl5" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yargl5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 📌 Основные проекты
