@@ -4,21 +4,30 @@
 
 ---
 
-### 🛠 Стек и инструменты
+<h1 align="center">yargl5</h1>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibecoding-100%25-blueviolet?style=for-the-badge" alt="Vibecoding" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 ---
 
-### 📊 Статистика профиля
+### Стек и инструменты
+
+- **AI tooling:** Claude, Codex, Cursor
+- **Языки и среда:** Python, JavaScript, Bash / Linux
+- **Профиль:** автоматизация процессов, парсинг, веб-расширения и скрипты
+
+---
+
+### Статистика
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yargl5&show_icons=true&theme=tokyonight&hide_border=true" alt="Статистика yargl5" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yargl5&layout=compact&theme=tokyonight&hide_border=true" alt="Используемые языки" />
 </p>
 
 ---
