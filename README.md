@@ -25,8 +25,8 @@
 ### Активность и статистика
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yargl5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yargl5&theme=tokyonight" alt="Детали профиля" />
+</p></p>
 ---
 
 ### 📌 Основные проекты
